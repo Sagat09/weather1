@@ -6,7 +6,7 @@ A versatile Python Weather App that works in multiple modes:
 - 🌐 Web app using **Flask**  
 - 📍 Auto-detects user location via IP address   
 
-Autho - Sagar
+Author - Sagar
 
 
 ---
@@ -28,6 +28,7 @@ Autho - Sagar
 ```bash
 git clone https://github.com/BALADURGAG24/python-weather-app.git
 cd python-weather-app
+
 
 
 
